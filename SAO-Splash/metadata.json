@@ -1,0 +1,17 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "0838869839khoi@gmail.com",
+                "Name": "khointn"
+            }
+        ],
+        "Category": "",
+        "Description": "I love SAO",
+        "Id": "SAO-Splash",
+        "License": "GPLv3",
+        "Name": "SAO Splash",
+        "Website": "https://github.com/ngtnkhoi/Roley-Fedora"
+    }
+}
