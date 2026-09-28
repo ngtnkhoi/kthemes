@@ -1,0 +1,7 @@
+[SddmGreeterTheme]
+Name=Asuna x Kirito
+Description=Asuna x Kirito Theme
+Type=sddm-theme
+MainScript=Main.qml
+ConfigFile=theme.conf
+QtVersion=6
